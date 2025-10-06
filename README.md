@@ -26,9 +26,7 @@ O projeto inclui:
 
 ## 🗂️ Estrutura do Repositório
 
-
-
-## Estrutura do repositório
+```text
 ventiladores-dashboard/
 │
 ├── data/
@@ -36,6 +34,7 @@ ventiladores-dashboard/
 │
 ├── app.py                              # Código principal do dashboard (Dash + Plotly)
 ├── requirements.txt                    # Dependências do projeto
+├── screenshot.png                      # Imagem de preview do dashboard
 └── README.md                           # Documentação e instruções
 
 
